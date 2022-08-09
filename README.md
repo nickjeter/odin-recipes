@@ -1,3 +1,3 @@
 # odin-recipes
 
-This is a simple HTML only project to build competency with git/github/HTML
+This is a simple HTML/CSS project to build competency with git/github/HTML/CSS
