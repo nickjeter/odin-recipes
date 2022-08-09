@@ -1,0 +1,19 @@
+img {
+    width: 350px;
+    height: auto;
+}
+
+#cbcd,
+#cbci {
+    color: yellowgreen;
+}
+
+#wd,
+#wi {
+    color: blue;
+}
+
+#gbsi,
+#gbsd {
+    color: red;
+}
